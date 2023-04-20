@@ -1,0 +1,120 @@
+.img1
+{
+position: absolute;
+height: 50px;
+width: 60px;
+display: inline-block;
+
+
+}
+   
+.c1
+{
+    border: 2px solid slateblue;
+    position: relative;
+}
+
+.imp
+{
+    margin-left: 1200px;
+    list-style: none;
+
+}
+.l1
+{
+    display: inline-block;
+    margin-right: 1cm;
+}
+.l2
+{
+    display: inline-block;
+}
+.img2
+{
+    position: absolute;
+    height: 500px;
+    width: 1435px;
+  border: 5px solid rgb(119, 82, 82);
+    
+}
+.c
+{
+    margin-left: 300px;
+    text-size-adjust: 500px;
+    margin-top: 400px;
+    width: 300px;
+    position: absolute;
+    border: 2px solid red;
+}
+.d1
+{
+    display: inline-block;
+    position: relative;
+    margin-top: 1cm;
+    height: 500px;
+}
+.d2
+{
+border: 3px solid darkred;
+margin-top: 1cm;
+}
+.d3
+{
+   margin-left: 0.5cm;
+    border: 3px solid darkcyan;
+    display: inline-block;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    padding-right: 1cm;
+    
+}
+.d4
+{
+    border: 3px solid cornflowerblue;
+    display: inline-block;
+    margin-left: 1cm;
+    padding-right: 1cm;
+    
+}
+.d5
+{
+    border: 3px solid royalblue;
+    display: inline-block;
+    margin-left: 1cm;
+    padding-right: 1cm;
+}
+.f1
+{
+    border: 3px solid rebeccapurple;
+    
+}
+.p1
+{
+    display: inline-block;
+    
+}
+.p2
+{
+   display: inline-block;
+   margin-left: 6cm;
+}
+.p3
+{
+    display: inline-block;
+    margin-left: 9cm;
+}
+
+.h
+{
+    margin-left: 4cm;
+}
+
+.he
+{
+    margin-left: 4cm;
+}
+
+.hea
+{
+    margin-left: 4.5cm;
+}
